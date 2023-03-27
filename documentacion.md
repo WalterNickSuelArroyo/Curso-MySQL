@@ -35,3 +35,16 @@ Los índices son estructuras de datos que se utilizan para mejorar la eficiencia
 **Clave única (Unique Key)**: Es similar a la clave primaria en el sentido de que identifica de manera única los registros en una tabla. La diferencia es que una tabla puede tener varias claves únicas, mientras que solo puede tener una clave primaria. Las claves únicas se utilizan para garantizar que no haya registros duplicados en una o varias columnas de una tabla.
 
 **Clave (Key)**: Es una columna o conjunto de columnas que se utiliza para acelerar la búsqueda de registros en una tabla. A diferencia de la clave primaria y la clave única, una clave puede contener valores duplicados. Las claves se utilizan para mejorar la velocidad de las búsquedas en una tabla, pero no garantizan la unicidad de los registros.
+
+# BASE DE DATOS EN MYSQL
+## 7. QUE ES MYSQL 
+MySQL es un sistema de gestión de bases de datos relacionales (RDBMS) muy popular y ampliamente utilizado. Fue desarrollado originalmente por MySQL AB, que fue adquirida por Sun Microsystems y posteriormente por Oracle Corporation. MySQL es un software libre y de código abierto, lo que significa que se puede descargar, utilizar y modificar de forma gratuita.
+
+## 8. ACLARACIONES SOBRE LA INSTALACION DE MYSQL
+## 9. INSTALANDO MYSQL
+## 10. INSTALAR XAMPP SE TE HA FALLADO LA INSTALACION DE MYSQL
+## 11. INSTALANDO HEIDISQL EN MI PC
+## 12. CONECTANDO AL SERVIDOR DE BASE DE DATOS CON HEIDISQL
+## 13. CREANDO NUESTRA PRIMERA BASE DE DATOS
+Para crear una base de datos en HeidiSQL damos clic derecho en local -> crear nuevo -> Base de Datos
+## 14. CREANDO TABLAS Y CAMPOS
